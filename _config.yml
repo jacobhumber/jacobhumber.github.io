@@ -25,7 +25,7 @@ highlighter: rouge
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, set to false
-disqus: mydisqus
+#disqus: mydisqus
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
@@ -73,7 +73,7 @@ about: true
 blog: false
 
 # if you don't need projects, comment the *projects* configs below
-projects: false
+projects: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
