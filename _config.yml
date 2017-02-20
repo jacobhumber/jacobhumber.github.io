@@ -73,7 +73,7 @@ about: true
 blog: false
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+#projects: false
 
 # do you want to show the "read time" of the posts?
 read-time: true
